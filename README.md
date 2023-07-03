@@ -5,7 +5,6 @@ This is our first programming exercise in the internship bootcamp. We will write
 ## Setup Steps
 
 1. Fork this repo
-    - Go to [this repo's GitHub page](https://github.com/cameronmccormack/loc-interns-fizzbuzz)
     - Click "Fork" in the top-right of the page - this will create a copy of this repo in *your own GitHub account*
 2. Clone (download) the repo
     - Go to your newly-created fork of the repo (on GitHub).
