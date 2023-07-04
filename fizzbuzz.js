@@ -1,4 +1,4 @@
-// This is our main function
+// fizzbuzz takes a number, prints that number of numbers in a fizzbuzz form
 function fizzbuzz(num) {
     // main loop
     for (i=1; i<=num; i++){
@@ -61,6 +61,7 @@ function fizzbuzz(num) {
 
 }
 
+//fizbuzz single takes a number and returns a message
 function fizzBuzzSingle(num) {
     i = num
     // main loop
