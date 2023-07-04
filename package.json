@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "mock-stdin": "^1.0.0"
+    }
+}
